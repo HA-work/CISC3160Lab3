@@ -1,5 +1,8 @@
 # CISC3160Lab3
 A repository with files for a Lex and Yacc program that acts as a simple grade calculator.
+There is also a reflection in the form of a word document.
+
+
 The gradeCalc folder contains 4 files.
 It contains a Lex file that defines some tokens.
 A Yacc file that describes the type of requests that the program can fulfill.
