@@ -1,0 +1,10 @@
+yacc -d gradeCalc.y
+
+lex gradeCalc.l
+
+cc y.tab.c lex.yy.c -o gradeCalc
+
+./gradeCalc
+
+
+

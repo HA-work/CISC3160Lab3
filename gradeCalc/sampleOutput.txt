@@ -1,0 +1,13 @@
+T
+Total grade is 0
+Q 1 2 3 4 5
+Quiz total 15
+Total grade after current entry is 15
+R 0 3 5 2 2
+Reflection total 12
+Total grade after current entry is 27
+L 4 4 4 4 4
+Lab total 20
+Total grade after current entry is 47
+T
+Total grade is 47
